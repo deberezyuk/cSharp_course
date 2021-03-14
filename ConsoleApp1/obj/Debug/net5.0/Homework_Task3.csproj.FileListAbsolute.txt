@@ -1,0 +1,16 @@
+C:\Users\deber\source\repos\Bereziuk_Lesson1\ConsoleApp1\bin\Debug\net5.0\Homework_Task3.exe
+C:\Users\deber\source\repos\Bereziuk_Lesson1\ConsoleApp1\bin\Debug\net5.0\Homework_Task3.deps.json
+C:\Users\deber\source\repos\Bereziuk_Lesson1\ConsoleApp1\bin\Debug\net5.0\Homework_Task3.runtimeconfig.json
+C:\Users\deber\source\repos\Bereziuk_Lesson1\ConsoleApp1\bin\Debug\net5.0\Homework_Task3.runtimeconfig.dev.json
+C:\Users\deber\source\repos\Bereziuk_Lesson1\ConsoleApp1\bin\Debug\net5.0\Homework_Task3.dll
+C:\Users\deber\source\repos\Bereziuk_Lesson1\ConsoleApp1\bin\Debug\net5.0\ref\Homework_Task3.dll
+C:\Users\deber\source\repos\Bereziuk_Lesson1\ConsoleApp1\bin\Debug\net5.0\Homework_Task3.pdb
+C:\Users\deber\source\repos\Bereziuk_Lesson1\ConsoleApp1\obj\Debug\net5.0\Homework_Task3.csprojAssemblyReference.cache
+C:\Users\deber\source\repos\Bereziuk_Lesson1\ConsoleApp1\obj\Debug\net5.0\Homework_Task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deber\source\repos\Bereziuk_Lesson1\ConsoleApp1\obj\Debug\net5.0\Homework_Task3.AssemblyInfoInputs.cache
+C:\Users\deber\source\repos\Bereziuk_Lesson1\ConsoleApp1\obj\Debug\net5.0\Homework_Task3.AssemblyInfo.cs
+C:\Users\deber\source\repos\Bereziuk_Lesson1\ConsoleApp1\obj\Debug\net5.0\Homework_Task3.csproj.CoreCompileInputs.cache
+C:\Users\deber\source\repos\Bereziuk_Lesson1\ConsoleApp1\obj\Debug\net5.0\Homework_Task3.dll
+C:\Users\deber\source\repos\Bereziuk_Lesson1\ConsoleApp1\obj\Debug\net5.0\ref\Homework_Task3.dll
+C:\Users\deber\source\repos\Bereziuk_Lesson1\ConsoleApp1\obj\Debug\net5.0\Homework_Task3.pdb
+C:\Users\deber\source\repos\Bereziuk_Lesson1\ConsoleApp1\obj\Debug\net5.0\Homework_Task3.genruntimeconfig.cache

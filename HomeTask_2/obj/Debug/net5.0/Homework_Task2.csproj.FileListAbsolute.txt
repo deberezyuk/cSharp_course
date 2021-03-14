@@ -1,0 +1,16 @@
+C:\Users\deber\source\repos\Bereziuk_Lesson1\HomeTask_2\bin\Debug\net5.0\Homework_Task2.exe
+C:\Users\deber\source\repos\Bereziuk_Lesson1\HomeTask_2\bin\Debug\net5.0\Homework_Task2.deps.json
+C:\Users\deber\source\repos\Bereziuk_Lesson1\HomeTask_2\bin\Debug\net5.0\Homework_Task2.runtimeconfig.json
+C:\Users\deber\source\repos\Bereziuk_Lesson1\HomeTask_2\bin\Debug\net5.0\Homework_Task2.runtimeconfig.dev.json
+C:\Users\deber\source\repos\Bereziuk_Lesson1\HomeTask_2\bin\Debug\net5.0\Homework_Task2.dll
+C:\Users\deber\source\repos\Bereziuk_Lesson1\HomeTask_2\bin\Debug\net5.0\ref\Homework_Task2.dll
+C:\Users\deber\source\repos\Bereziuk_Lesson1\HomeTask_2\bin\Debug\net5.0\Homework_Task2.pdb
+C:\Users\deber\source\repos\Bereziuk_Lesson1\HomeTask_2\obj\Debug\net5.0\Homework_Task2.csprojAssemblyReference.cache
+C:\Users\deber\source\repos\Bereziuk_Lesson1\HomeTask_2\obj\Debug\net5.0\Homework_Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deber\source\repos\Bereziuk_Lesson1\HomeTask_2\obj\Debug\net5.0\Homework_Task2.AssemblyInfoInputs.cache
+C:\Users\deber\source\repos\Bereziuk_Lesson1\HomeTask_2\obj\Debug\net5.0\Homework_Task2.AssemblyInfo.cs
+C:\Users\deber\source\repos\Bereziuk_Lesson1\HomeTask_2\obj\Debug\net5.0\Homework_Task2.csproj.CoreCompileInputs.cache
+C:\Users\deber\source\repos\Bereziuk_Lesson1\HomeTask_2\obj\Debug\net5.0\Homework_Task2.dll
+C:\Users\deber\source\repos\Bereziuk_Lesson1\HomeTask_2\obj\Debug\net5.0\ref\Homework_Task2.dll
+C:\Users\deber\source\repos\Bereziuk_Lesson1\HomeTask_2\obj\Debug\net5.0\Homework_Task2.pdb
+C:\Users\deber\source\repos\Bereziuk_Lesson1\HomeTask_2\obj\Debug\net5.0\Homework_Task2.genruntimeconfig.cache

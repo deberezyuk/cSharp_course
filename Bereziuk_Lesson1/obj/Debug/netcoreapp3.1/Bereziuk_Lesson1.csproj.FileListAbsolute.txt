@@ -1,0 +1,13 @@
+C:\Users\deber\source\repos\Bereziuk_Lesson1\Bereziuk_Lesson1\obj\Debug\netcoreapp3.1\Bereziuk_Lesson1.csprojAssemblyReference.cache
+C:\Users\deber\source\repos\Bereziuk_Lesson1\Bereziuk_Lesson1\obj\Debug\netcoreapp3.1\Bereziuk_Lesson1.AssemblyInfoInputs.cache
+C:\Users\deber\source\repos\Bereziuk_Lesson1\Bereziuk_Lesson1\obj\Debug\netcoreapp3.1\Bereziuk_Lesson1.AssemblyInfo.cs
+C:\Users\deber\source\repos\Bereziuk_Lesson1\Bereziuk_Lesson1\obj\Debug\netcoreapp3.1\Bereziuk_Lesson1.csproj.CoreCompileInputs.cache
+C:\Users\deber\source\repos\Bereziuk_Lesson1\Bereziuk_Lesson1\bin\Debug\netcoreapp3.1\Bereziuk_Lesson1.exe
+C:\Users\deber\source\repos\Bereziuk_Lesson1\Bereziuk_Lesson1\bin\Debug\netcoreapp3.1\Bereziuk_Lesson1.deps.json
+C:\Users\deber\source\repos\Bereziuk_Lesson1\Bereziuk_Lesson1\bin\Debug\netcoreapp3.1\Bereziuk_Lesson1.runtimeconfig.json
+C:\Users\deber\source\repos\Bereziuk_Lesson1\Bereziuk_Lesson1\bin\Debug\netcoreapp3.1\Bereziuk_Lesson1.runtimeconfig.dev.json
+C:\Users\deber\source\repos\Bereziuk_Lesson1\Bereziuk_Lesson1\bin\Debug\netcoreapp3.1\Bereziuk_Lesson1.dll
+C:\Users\deber\source\repos\Bereziuk_Lesson1\Bereziuk_Lesson1\bin\Debug\netcoreapp3.1\Bereziuk_Lesson1.pdb
+C:\Users\deber\source\repos\Bereziuk_Lesson1\Bereziuk_Lesson1\obj\Debug\netcoreapp3.1\Bereziuk_Lesson1.dll
+C:\Users\deber\source\repos\Bereziuk_Lesson1\Bereziuk_Lesson1\obj\Debug\netcoreapp3.1\Bereziuk_Lesson1.pdb
+C:\Users\deber\source\repos\Bereziuk_Lesson1\Bereziuk_Lesson1\obj\Debug\netcoreapp3.1\Bereziuk_Lesson1.genruntimeconfig.cache
